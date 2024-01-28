@@ -1,12 +1,12 @@
-import ButtonBox from "./components/ButtonBox/buttonBox";
+import Sart from './components/Sart';
 
 function App() {
 
+ 
 
   return (
     <div className="App">
-      <h1>안녕하세요.</h1>
-      <ButtonBox />
+      <Sart />
     </div>
   );
 }
